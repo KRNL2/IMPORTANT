@@ -1,0 +1,103 @@
+-- FE Event hats (ones that im missing)
+
+-- Moai [R6 Only]
+
+-- Tornado [R6 Only]
+
+-- Plane [R6 Only] 
+
+
+-- FE PAID HATS
+
+-- Black LC [R6 Only]
+
+-- Demon [R6 Only]
+
+-- Wideboy [R6 Only]
+
+-- Tank V2 [R6 Only]
+
+-- Car [R6 Only]
+
+-- AmongUsV3 [R6 Only]
+
+-- Neko [R6 Only]
+
+-- Hammer Arm [R6 Only]
+
+-- Fling Gunner [R6 Only]
+
+-- Red Samurai [R6 Only]
+
+-- PC Gamer [R6 & R15]
+
+-- Minecart [R6 Only]
+
+-- Snake [R6 Only]
+
+-- Titan Car [R6 Only]
+
+-- Road Rogue [R6 Only]
+
+-- Propeller [R6 Only]
+
+-- Mage of Heaven [R6 Only]
+
+-- Cop [R6 Only]
+
+-- Achromatic Glitcher [R6 Only]
+
+-- Terminated Glitcher [R6 Only]
+
+-- Sword StarGlitcher [R6 Only]
+
+-- Popcat [R6 Only]
+***WILL BE SEARCHING FOR MORE***
+
+
+-- FE NO HATS
+
+-- Cursor Fling [R6 Only]
+
+-- Invisibility [R6 Only]
+
+-- Walk on Walls [R6 Only] -- *and maybe r15 if I find it.*
+
+-- Ragdoll [R6 Only]
+
+-- Giant [R15 Only]
+
+-- Huge Leg [R15 Only]
+
+-- FE Dog
+
+Tab:AddButton({
+	Name = "Dog",
+	Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KRNL2/fedog/main/animation"))();
+  	end    
+})
+
+
+-- FE Winged Human
+
+Tab:AddButton({
+	Name = "Winged Human [R6 Only]",
+	Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KRNL2/fewinged/main/human"))()	
+  	end    
+})
+
+
+-- FE Small Avatar V2
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KRNL2/smallavatarv2/main/source', true))()
+
+-- Scale for small avatar v2: https://pastebin.com/raw/v7gVS6dB
+
+
+-- FE Titan
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KRNL2/fesizechanger/main/titan', true))()
+
+-- Scale for titan: https://pastebin.com/raw/AFiwnWW5
+***WILL BE SEARCHING FOR MORE***
